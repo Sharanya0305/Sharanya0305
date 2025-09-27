@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Sharanya
+**Hi there 👋 It's me <span style="color:#1E90FF">Sharanya</span>**
 
 **Aspiring Full Stack Java Developer** | 💡 *"Turning Ideas into Impact with Code"* ✨  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
@@ -16,6 +16,8 @@
 🌱 Currently exploring **React + Full Stack Development**  
 ✨ Strong believer in *learning by building*  
 🎯 Vision: Code with purpose. Learn with passion. Share with impact.  
+
+---
 
 **Social Presence**  
 <br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sharanyam032025/)  
