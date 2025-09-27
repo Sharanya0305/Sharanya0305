@@ -18,7 +18,7 @@
 🎯 Vision: Code with purpose. Learn with passion. Share with impact.  
 
 **Social Presence**  
-<br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)  
+<br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sharanyam032025/)  
 <br> [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://github.com/Sharanya0305/Sharanya0305/)
 ## 🛠️ My Tech Stack  
 
