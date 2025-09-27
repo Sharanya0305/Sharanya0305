@@ -3,7 +3,7 @@
 Aspiring Full Stack Java Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
-- 🌱 I’m currently pursuing Final year B.Tech in Computer Science & Engineering
+> 💡 *"Turning Ideas into Impact with Code"* ✨ 👩‍💻 Final-Year B.Tech CSE | Passionate Developer 🚀 Full Stack Developer in the making | Backend Lover | Data Explorer 💙 Believe in **Consistency, Hard Work, and Persistence** 🔥 Code. Create. Contribute. Repeat.
 - Engineering at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
 - Social Presence
 <br><br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)<br /> [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://github.com/Sharanya0305/Sharanya0305/)
