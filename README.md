@@ -3,8 +3,8 @@
 Aspiring Full Stack Java Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
-> 💡 *"Turning Ideas into Impact with Code"* ✨ <br> 👩‍💻 Final-Year B.Tech CSE | Passionate Developer <br>🚀 Full Stack Developer in the making | Backend Lover | Data Explorer <br>💙 Believe in **Consistency, Hard Work, and Persistence** <br>🔥 Code. Create. Contribute. Repeat.
-<br><br> ⚡ **About Me**<br> -  🔥 Skilled in **Java, Python, HTML, CSS, JavaScript, Spring Boot, PostgreSQL**<br> - 🌱 Currently exploring **React + Full Stack Development** <br>- 📊 Interested in **Web Development & Data Science** <br>- ✨ Strong believer in *learning by building* <br>- 🎯 Vision: Code with purpose. Learn with passion. Share with impact.
+⚡ **About Me**<br>👩‍💻 Final-Year B.Tech CSE | Passionate Developer <br>-🔥 Skilled in **Java, Python, HTML, CSS, JavaScript, Spring Boot, PostgreSQL**<br> 🚀 Full Stack Developer in the making | Backend Lover | Data Explorer <br> - 📊 Interested in **Web Development & Data Science** <br><br> 💡 *"Turning Ideas into Impact with Code"* ✨ <br> 💙 Believe in **Consistency, Hard Work, and Persistence** <br>🔥 Code. Create. Contribute. Repeat.
+<br><br> - 🌱 Currently exploring **React + Full Stack Development** <br>- ✨ Strong believer in *learning by building* <br>- 🎯 Vision: Code with purpose. Learn with passion. Share with impact.
 - Social Presence
 <br><br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)<br /> [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://github.com/Sharanya0305/Sharanya0305/)
 
