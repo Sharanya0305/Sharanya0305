@@ -20,53 +20,71 @@
 **Social Presence**  
 <br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)  
 <br> [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://github.com/Sharanya0305/Sharanya0305/)
+## 🛠️ My Tech Stack  
+
+<div align="center">
+
+### 💻 I Code In  
+<table>
+<tr>
+<td align="center">
+<img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/><br>Java
+</td>
+<td align="center">
+<img height="50" src="https://img.icons8.com/color/48/python.png"/><br>Python
+</td>
+<td align="center">
+<img height="50" src="https://img.icons8.com/color/48/html-5.png"/><br>HTML
+</td>
+<td align="center">
+<img height="50" src="https://img.icons8.com/color/48/css3.png"/><br>CSS
+</td>
+<td align="center">
+<img height="50" src="https://img.icons8.com/color/48/javascript.png"/><br>JavaScript
+</td>
+<td align="center">
+<img height="50" src="https://img.icons8.com/color/48/react-native.png"/><br>React
+</td>
+<td align="center">
+<img height="48" src="https://img.icons8.com/color/48/spring-logo.png"/><br>Spring Boot
+</td>
+<td align="center">
+<img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png"/><br>PostgreSQL
+</td>
+</tr>
+</table>
 
 ---
 
-### I code in
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <div style="border:2px solid #ff4d4d; border-radius:10px; padding:10px;"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></div>
-  <div style="border:2px solid #ff4d4d; border-radius:10px; padding:10px;"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /></div>
-  <div style="border:2px solid #ff4d4d; border-radius:10px; padding:10px;"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /></div>
-  <div style="border:2px solid #ff4d4d; border-radius:10px; padding:10px;"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /></div>
-  <div style="border:2px solid #ff4d4d; border-radius:10px; padding:10px;"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /></div>
-  <div style="border:2px solid #ff4d4d; border-radius:10px; padding:10px;"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" /></div>
-  <div style="border:2px solid #ff4d4d; border-radius:10px; padding:10px;"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" /></div>
-  <div style="border:2px solid #ff4d4d; border-radius:10px; padding:10px;"><img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" /></div>
+### ⚙️ IDEs & Tools I Use  
+<table>
+<tr>
+<td align="center"><img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/><br>VS Code</td>
+<td align="center"><img height="50" src="https://img.icons8.com/color/48/intellij-idea.png"/><br>IntelliJ</td>
+<td align="center"><img height="50" src="https://img.icons8.com/color/48/pycharm.png"/><br>PyCharm</td>
+<td align="center"><img height="50" src="https://img.icons8.com/officel/480/java-eclipse.png"/><br>Eclipse</td>
+<td align="center"><img height="50" src="https://img.icons8.com/ios-filled/50/github.png"/><br>GitHub</td>
+<td align="center"><img height="50" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png"/><br>Excel</td>
+<td align="center"><img height="50" src="https://img.icons8.com/color/48/microsoft-word-2019--v2.png"/><br>Word</td>
+<td align="center"><img height="50" src="https://img.icons8.com/fluency/48/microsoft-powerpoint-2019.png"/><br>PowerPoint</td>
+<td align="center"><img height="50" src="https://img.icons8.com/color/48/figma--v1.png"/><br>Figma</td>
+<td align="center"><img height="50" src="https://img.icons8.com/fluency/48/canva.png"/><br>Canva</td>
+</tr>
+</table>
+
+---
+
+### 🤖 AI Tools I Use  
+<table>
+<tr>
+<td align="center"><img height="50" src="https://img.icons8.com/ios/50/chatgpt.png"/><br>ChatGPT</td>
+<td align="center"><img height="50" src="https://img.icons8.com/ios-filled/50/perplexity-ai.png"/><br>Perplexity</td>
+<td align="center"><img height="50" src="https://img.icons8.com/fluency/48/microsoft-copilot.png"/><br>Copilot</td>
+<td align="center"><img height="50" src="https://img.icons8.com/ios-filled/50/blackbox.png"/><br>Blackbox</td>
+</tr>
+</table>
+
 </div>
-
----
-
-### IDE and Tools I Use
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <div style="border:2px solid #4d79ff; border-radius:10px; padding:10px;"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /></div>
-  <div style="border:2px solid #4d79ff; border-radius:10px; padding:10px;"><img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" /></div>
-  <div style="border:2px solid #4d79ff; border-radius:10px; padding:10px;"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" /></div>
-  <div style="border:2px solid #4d79ff; border-radius:10px; padding:10px;"><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png" /></div>
-  <div style="border:2px solid #4d79ff; border-radius:10px; padding:10px;"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" /></div>
-  <div style="border:2px solid #4d79ff; border-radius:10px; padding:10px;"><img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" /></div>
-  <div style="border:2px solid #4d79ff; border-radius:10px; padding:10px;"><img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-word-2019--v2.png" /></div>
-  <div style="border:2px solid #4d79ff; border-radius:10px; padding:10px;"><img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-powerpoint-2019.png" /></div>
-  <div style="border:2px solid #4d79ff; border-radius:10px; padding:10px;"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" /></div>
-  <div style="border:2px solid #4d79ff; border-radius:10px; padding:10px;"><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" /></div>
-</div>
-
----
-
-### AI Tools I Use
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <div style="border:2px solid #00cc66; border-radius:10px; padding:10px;"><img width="50" height="50" src="https://img.icons8.com/ios/50/chatgpt.png" /></div>
-  <div style="border:2px solid #00cc66; border-radius:10px; padding:10px;"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/perplexity-ai.png" /></div>
-  <div style="border:2px solid #00cc66; border-radius:10px; padding:10px;"><img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-copilot.png" /></div>
-  <div style="border:2px solid #00cc66; border-radius:10px; padding:10px;"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/blackbox.png" /></div>
-</div>
-
----
-
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> 
-<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 ---
 
