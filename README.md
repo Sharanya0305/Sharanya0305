@@ -1,4 +1,3 @@
-
 Hi there 👋 It's me **Sharanya** 😊
 
 **Aspiring Full Stack Java Developer** | 💡 *"Turning Ideas into Impact with Code"* ✨  
