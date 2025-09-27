@@ -5,7 +5,7 @@
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 ⚡ **About Me**<br>👩‍💻 Final-Year B.Tech CSE | Passionate Developer <br>🔥 Skilled in **Java, Python, HTML, CSS, JavaScript, Spring Boot, PostgreSQL**<br> 🚀 Full Stack Developer in the making | Backend Lover | Data Explorer <br> 📊 Interested in **Web Development & Data Science** <br><br> 💙 Believe in **Consistency, Hard Work, and Persistence** 
 <br>🔥 Code. Create. Contribute. Repeat. <br>🌱 Currently exploring **React + Full Stack Development** <br> ✨ Strong believer in *learning by building* <br> 🎯 Vision: Code with purpose. Learn with passion. Share with impact.<br><br>
-**- Social Presence**
+**Social Presence**
 <br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)<br /> [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://github.com/Sharanya0305/Sharanya0305/)
 
 ### I code in
