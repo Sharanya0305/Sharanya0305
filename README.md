@@ -10,7 +10,6 @@
 
 ## ⚡ About Me  
 👩‍💻 Final-Year B.Tech CSE | Passionate Developer  
-🔥 Skilled in **Java, Python, HTML, CSS, JavaScript, Spring Boot, PostgreSQL**  
 🚀 Full Stack Developer in the making | Backend Lover | Data Explorer  
 📊 Interested in **Web Development & Data Science**  
 💙 Believe in **Consistency, Hard Work, and Persistence**  
@@ -27,43 +26,31 @@
 
 ---
 
-## 🛠️ My Tech Stack  
+## 🛠️ I Code In
 
 <div align="center">
 
-### 💻 I Code In  
 <table>
 <tr>
-<td align="center">
-<img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/><br>Java
-</td>
-<td align="center">
-<img height="50" src="https://img.icons8.com/color/48/python.png"/><br>Python
-</td>
-<td align="center">
-<img height="50" src="https://img.icons8.com/color/48/html-5.png"/><br>HTML
-</td>
-<td align="center">
-<img height="50" src="https://img.icons8.com/color/48/css3.png"/><br>CSS
-</td>
-<td align="center">
-<img height="50" src="https://img.icons8.com/color/48/javascript.png"/><br>JavaScript
-</td>
-<td align="center">
-<img height="50" src="https://img.icons8.com/color/48/react-native.png"/><br>React
-</td>
-<td align="center">
-<img height="48" src="https://img.icons8.com/color/48/spring-logo.png"/><br>Spring Boot
-</td>
-<td align="center">
-<img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png"/><br>PostgreSQL
-</td>
+<td align="center"><img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/><br>Java</td>
+<td align="center"><img height="50" src="https://img.icons8.com/color/48/python.png"/><br>Python</td>
+<td align="center"><img height="50" src="https://img.icons8.com/color/48/html-5.png"/><br>HTML</td>
+<td align="center"><img height="50" src="https://img.icons8.com/color/48/css3.png"/><br>CSS</td>
+<td align="center"><img height="50" src="https://img.icons8.com/color/48/javascript.png"/><br>JavaScript</td>
+<td align="center"><img height="50" src="https://img.icons8.com/color/48/react-native.png"/><br>React</td>
+<td align="center"><img height="48" src="https://img.icons8.com/color/48/spring-logo.png"/><br>Spring Boot</td>
+<td align="center"><img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png"/><br>PostgreSQL</td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-### ⚙️ IDEs & Tools I Use  
+## 🛠️ Tools I Use  
+
+<div align="center">
+
 <table>
 <tr>
 <td align="center"><img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/><br>VS Code</td>
@@ -79,26 +66,21 @@
 </tr>
 </table>
 
+</div>
+
 ---
 
-### 🤖 AI Tools I Use  
+## 🤖 AI Tools I Use  
+
+<div align="center">
+
 <table>
 <tr>
 <td align="center"><img height="50" src="https://img.icons8.com/ios/50/chatgpt.png"/><br>ChatGPT</td>
-<td align="center"><img height="50" src="https://img.icons8.com/ios-filled/50/perplexity-ai.png"/><br>Perplexity</td>
+<td align="center"><img height="50" src="https://img.icons8.com/ios-filled/50/perplexity-ai.png"/><br>Perplexity AI</td>
 <td align="center"><img height="50" src="https://img.icons8.com/fluency/48/microsoft-copilot.png"/><br>Copilot</td>
 <td align="center"><img height="50" src="https://img.icons8.com/ios-filled/50/blackbox.png"/><br>Blackbox</td>
 </tr>
 </table>
 
 </div>
-
----
-
-## 📊 GitHub & LeetCode Stats  
-
-![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharanya0305&show_icons=true&theme=radical)  
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Sharanya_0305?ext=contest&theme=dark)](https://leetcode.com/Sharanya_0305)  
-
-[![Sharanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharanya0305&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
