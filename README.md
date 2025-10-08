@@ -92,6 +92,10 @@ Hi there 👋 It's me **Sharanya** 😊
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Sharanya_0305?ext=contest&theme=dark)](https://leetcode.com/Sharanya_0305)
 
+<a href="https://www.geeksforgeeks.org/user/sharanyamoy1x/">
+  <img src="https://gfgstatscard.vercel.app/sharanyamoy1x" alt="GFG stats" />
+</a>
+
 [![GfG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=sharanyamoy1x)](https://www.geeksforgeeks.org/user/sharanyamoy1x/)
 
 [![Sharanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharanya0305&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
