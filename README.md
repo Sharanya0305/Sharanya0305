@@ -88,12 +88,38 @@ Hi there 👋 It's me **Sharanya** 😊
 
 ---
 
-![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharanya0305&show_icons=true&theme=radical)
+<div align="center">
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Sharanya_0305?ext=contest&theme=dark)](https://leetcode.com/Sharanya_0305)
+## 🚀 Coding Stats Showcase
 
-<a href="https://www.geeksforgeeks.org/user/sharanyamoy1x/">
-  <img src="https://gfgstatscard.vercel.app/sharanyamoy1x" alt="GFG stats" />
+<table>
+  <tr>
+    <!-- Left Side: GitHub & LeetCode Stats -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Sharanya0305&show_icons=true&theme=radical" alt="Sharanya's GitHub stats" />
+      <br>
+      <a href="https://leetcode.com/Sharanya_0305/">
+        <img src="https://leetcard.jacoblin.cool/Sharanya_0305?ext=contest&theme=dark" alt="Sharanya's LeetCode Stats" />
+      </a>
+    </td>
+
+    <!-- Right Side: GeeksforGeeks Stats -->
+    <td>
+      <a href="https://www.geeksforgeeks.org/user/sharanyamoy1x/">
+        <img src="https://gfgstatscard.vercel.app/sharanyamoy1x" alt="GFG stats card" />
+      </a>
+      <br>
+      <a href="https://www.geeksforgeeks.org/user/sharanyamoy1x/">
+        <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sharanyamoy1x" alt="GFG stats API" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- GitHub Activity Graph -->
+<br>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharanya0305&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="Sharanya's GitHub Activity Graph" />
 </a>
 
-[![Sharanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharanya0305&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
