@@ -1,5 +1,5 @@
 Hi there 👋 It's me **Sharanya** 😊  
-**Passionate Full Stack Java Developer** | 💡Turning Ideas into Impact with Code ✨  
+**Passionate Full Stack Java Developer** |💡Turning Ideas into Impact with Code ✨  
 <img align="right" width="350" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 Here's my [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logo=appveyor)](https://harpp/)
@@ -90,37 +90,14 @@ Hi there 👋 It's me **Sharanya** 😊
 
 ---
 
-## 🚀 Coding Stats Showcase
+![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharanya0305&show_icons=true&theme=radical)
 
-<div align="center">
-<table>
-  <tr>
-    <!-- Left Side: GitHub & LeetCode Stats -->
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sharanya0305&show_icons=true&theme=radical" alt="Sharanya's GitHub stats" />
-      <br><br>
-      <a href="https://leetcode.com/Sharanya_0305/">
-        <img src="https://leetcard.jacoblin.cool/Sharanya_0305?ext=contest&theme=dark" alt="Sharanya's LeetCode Stats" />
-      </a>
-    </td>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Sharanya_0305?ext=contest&theme=dark)](https://leetcode.com/Sharanya_0305)
 
-    <!-- Right Side: GeeksforGeeks Stats -->
-    <td valign="top">
-      <a href="https://www.geeksforgeeks.org/user/sharanyamoy1x/">
-        <img src="https://gfgstatscard.vercel.app/sharanyamoy1x" alt="GFG stats card" />
-      </a>
-      <br><br>
-      <a href="https://www.geeksforgeeks.org/user/sharanyamoy1x/">
-        <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sharanyamoy1x" alt="GFG stats API" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- GitHub Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharanya0305&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="Sharanya's GitHub Activity Graph" />
+<a href="https://www.geeksforgeeks.org/user/sharanyamoy1x/">
+  <img src="https://gfgstatscard.vercel.app/sharanyamoy1x" alt="GFG stats" />
 </a>
-</div>
+
+[![GfG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=sharanyamoy1x)](https://www.geeksforgeeks.org/user/sharanyamoy1x/)
+
+[![Sharanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharanya0305&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
