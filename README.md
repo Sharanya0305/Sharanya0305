@@ -90,25 +90,27 @@ Hi there 👋 It's me **Sharanya** 😊
 
 <div align="center">
 
+<div align="center">
+
 ## 🚀 Coding Stats Showcase
 
 <table>
   <tr>
     <!-- Left Side: GitHub & LeetCode Stats -->
-    <td>
+    <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=Sharanya0305&show_icons=true&theme=radical" alt="Sharanya's GitHub stats" />
-      <br>
+      <br><br>
       <a href="https://leetcode.com/Sharanya_0305/">
         <img src="https://leetcard.jacoblin.cool/Sharanya_0305?ext=contest&theme=dark" alt="Sharanya's LeetCode Stats" />
       </a>
     </td>
 
     <!-- Right Side: GeeksforGeeks Stats -->
-    <td>
+    <td valign="top">
       <a href="https://www.geeksforgeeks.org/user/sharanyamoy1x/">
         <img src="https://gfgstatscard.vercel.app/sharanyamoy1x" alt="GFG stats card" />
       </a>
-      <br>
+      <br><br>
       <a href="https://www.geeksforgeeks.org/user/sharanyamoy1x/">
         <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sharanyamoy1x" alt="GFG stats API" />
       </a>
@@ -116,8 +118,9 @@ Hi there 👋 It's me **Sharanya** 😊
   </tr>
 </table>
 
-<!-- GitHub Activity Graph -->
 <br>
+
+<!-- GitHub Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharanya0305&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="Sharanya's GitHub Activity Graph" />
 </a>
