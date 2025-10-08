@@ -1,5 +1,5 @@
-Hi there 👋 It's me **Sharanya** 😊
-<br>**Passionate Full Stack Java Developer** |💡Turning Ideas into Impact with Code ✨  
+Hi there 👋 It's me **Sharanya** 😊  
+**Passionate Full Stack Java Developer** | 💡Turning Ideas into Impact with Code ✨  
 <img align="right" width="350" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 Here's my [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logo=appveyor)](https://harpp/)
@@ -17,9 +17,11 @@ Hi there 👋 It's me **Sharanya** 😊
 🎯 Vision: Code with purpose. Learn with passion. Share with impact.  
 
 ---
+
 **Social Presence**  
 <br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sharanyam032025/)  
 <br> [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/u/Sharanya_0305/)
+
 ## 🛠️ My Tech Stack  
 
 <div align="center">
@@ -88,12 +90,9 @@ Hi there 👋 It's me **Sharanya** 😊
 
 ---
 
-<div align="center">
-
-<div align="center">
-
 ## 🚀 Coding Stats Showcase
 
+<div align="center">
 <table>
   <tr>
     <!-- Left Side: GitHub & LeetCode Stats -->
@@ -124,5 +123,4 @@ Hi there 👋 It's me **Sharanya** 😊
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharanya0305&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="Sharanya's GitHub Activity Graph" />
 </a>
-
 </div>
